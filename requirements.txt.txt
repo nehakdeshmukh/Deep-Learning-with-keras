@@ -1,0 +1,9 @@
+numpy
+pip
+pandas
+keras
+h5py
+scikit-learn
+scipy
+tensorflow
+google-api-python-client
